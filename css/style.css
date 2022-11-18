@@ -21,7 +21,7 @@ section,header,footer{
     margin:auto;
 }
 header,section{
-    margin-bottom: 4rem;
+    margin-bottom: 2rem;
 
 }
 p,blockquote {
@@ -48,12 +48,11 @@ blockquote{
     font-style:italic;
     color:rgb(101, 32, 166);
     hanging-punctuation: first;
-    text-indent:-0.7rem;
+    text-indent:-0.5rem;
 }
 blockquote cite{
     font-style: normal;
-    font-size: 1.5rem;
-    color:#333333;
+   color:#333333;
 
 }
 
