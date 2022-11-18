@@ -48,7 +48,7 @@ blockquote{
     font-style:italic;
     color:rgb(101, 32, 166);
     hanging-punctuation: first;
-    text-indent:-0.5rem;
+    text-indent:-0.4rem;
 }
 blockquote cite{
     font-style: normal;
