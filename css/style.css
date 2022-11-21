@@ -162,7 +162,7 @@ table{
 
 /*--Styling the Footer--*/
 footer { 
-    background: #030307; 
+    background: rgb(101, 32, 166); 
     text-align: center; 
     font-size: 0.75rem; 
     color: #f7f7f7; 
@@ -200,9 +200,9 @@ footer {
     .connections svg { 
     margin: 1em auto;} 
     .connections a:hover svg path { 
-    fill: #D8C385; 
+    fill: rgb(198, 137, 255); 
     transition: all 0.2s ease-in-out;} 
     footer .connections a:hover svg path { 
-    fill: #D8C385; 
+    fill: rgb(198, 137, 255); 
     transition: all 0.2s ease-in-out;} 
     
