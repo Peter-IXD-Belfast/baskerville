@@ -107,6 +107,38 @@ nav a:hover {
     transition: all 0.3s ease-in-out;
 }
 
+/*-- Styling the Table--*/
+table{
+    margin:auto;
+    display:table;
+    border-collapse:collapse;
+    border-spacing: 2px;
+    margin-bottom:2rem;
+    width:100%;
+    }
+
+    caption{
+        margin: 1.5em 0;
+        text-transform:uppercase;
+        letter-spacing:0.5px;
+    }
+
+    th{
+        text-transform:uppercase;
+        font-weight:normal;
+        text-align:left;
+        color:#f7f7f7;
+        background:rgb(101, 32, 166);
+    }
+    th,td{
+        padding:+0.4em;
+    }
+
+    table, td{
+        background:rgb(151, 40, 255);
+        border: 2px, solid, #f7f7f7;
+    }
+
 /*--Styling the Footer--*/
 footer{
     text-align:center;
