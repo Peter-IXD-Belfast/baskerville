@@ -152,7 +152,6 @@ table{
     /*-- Styling the Horizontal Rule--*/
     hr{
         margin: 1rem 0;
-        width:70%;
         height: 1px;
         background-color:rgb(101, 32, 166);
         color:rgb(101, 32, 166);
@@ -161,6 +160,7 @@ table{
 
 /*--Styling the Footer--*/
 footer{
+    max-width:80%;
     text-align:center;
     font-size:0.75rem;
     padding-bottom: 4rem;
