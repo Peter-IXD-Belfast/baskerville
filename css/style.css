@@ -138,6 +138,12 @@ table{
         background:rgb(198, 137, 255);
         border: 2px solid #f7f7f7;
     }
+    /*-- Image Styling--*/
+    img{
+        display: block;
+        margin-bottom:2rem;
+        width:100%;
+    }
 
 /*--Styling the Footer--*/
 footer{
