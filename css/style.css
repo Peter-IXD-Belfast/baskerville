@@ -15,7 +15,7 @@ body{
     font-family: baskerville-urw, serif;
 
 }
-section,header,footer{
+section,header{
     width:80%;
     max-width:700px;
     margin:auto;
@@ -170,7 +170,8 @@ footer {
     } 
     
     footer p { 
-    margin: .5em 
+    margin: auto;
+    max-width:80% 
     } 
     
     .connections{ 
