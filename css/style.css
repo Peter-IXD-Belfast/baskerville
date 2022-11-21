@@ -52,7 +52,7 @@ blockquote{
     text-indent:-0.4rem;
 }
 blockquote cite{
-   margin: 1rem 0;
+    padding: 1rem 0;
     font-style: normal;
    color:#333333;
 
