@@ -56,6 +56,9 @@ blockquote cite{
    color:#333333;
 
 }
+.leader{
+    text-transform:uppercase;
+}
 
 /*--Styling Links--*/
 
@@ -153,8 +156,6 @@ table{
         background-color:rgb(101, 32, 166);
         color:rgb(101, 32, 166);
         border: none;
-        
-
     }
 
 /*--Styling the Footer--*/
