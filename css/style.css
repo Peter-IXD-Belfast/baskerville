@@ -151,7 +151,7 @@ table{
     }
     /*-- Styling the Horizontal Rule--*/
     hr{
-        margin: 100px,0;
+        margin: 300px,0;
         height: 1px;
         background-color:rgb(101, 32, 166);
         color:rgb(101, 32, 166);
